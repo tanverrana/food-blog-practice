@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.full-section{
+    margin-bottom: 50px;
+}
+.center{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(218, 143, 4);
+}
+.total-item{
+    display: flex;
+    margin: 15px;
+    
+}
+img{
+    height: 180px;
+    height: 180px;
+}
+.item{
+    
+    text-align: center;
+    padding-left: 20px;
+    box-shadow: 10px 10px 30px gray;
+}
+.burger{
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+   
+
+}
+
+.briyani{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.shop-button{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 40px;
+
+}
+.shop-button:hover{
+    background-color: black;
+}
+footer{
+    text-align: center;
+}
