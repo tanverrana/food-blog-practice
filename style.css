@@ -22,8 +22,9 @@ img{
 .item{
     
     text-align: center;
-    padding-left: 20px;
+    padding: 20px;
     box-shadow: 10px 10px 30px gray;
+    border-image-slice: 1;
 }
 .burger{
     margin-left: 10px;
